@@ -1,5 +1,4 @@
-# MeloW / ||[REDACTED]||
-**Newbie Zoomer Tech Enthusiast**
+# Melih
 
 ---
 
