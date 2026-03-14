@@ -1,7 +1,5 @@
 # Melih
 
----
-
 ### Skillset
 * **Languages:** C/C++, Go, Python, Bash Scripting.
 * **Cloud & IaC:** Azure, Docker, Kubernetes.
@@ -14,4 +12,3 @@
 * **Status:** `Waiting for input...`
 * **Log:** "It works on my machine."
 
----
